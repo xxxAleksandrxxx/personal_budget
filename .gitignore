@@ -1,0 +1,14 @@
+.venv/
+.DS_Store/
+__pycache__/
+
+books/
+database/
+research/
+output/
+tests/
+
+.vscode/
+.idea/
+
+test*
