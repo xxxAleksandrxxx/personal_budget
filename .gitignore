@@ -9,5 +9,7 @@ tests/
 
 .vscode/
 .idea/
-cspell.json # its for zed editor.
+
+# its for zed editor.
+cspell.json
 test*
