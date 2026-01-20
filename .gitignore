@@ -2,7 +2,6 @@
 .DS_Store/
 __pycache__/
 
-books/
 database/
 research/
 output/
@@ -10,5 +9,5 @@ tests/
 
 .vscode/
 .idea/
-
+cspell.json # its for zed editor.
 test*
